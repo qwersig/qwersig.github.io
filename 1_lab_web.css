@@ -1,0 +1,70 @@
+body{
+    background: url(I:\\Web\\fon.PNG) no-repeat center center;
+    min-height:100vh;
+    min-width: 100vw;
+    background-size:cover;
+    margin: 0;
+}
+
+.steklo{
+height:100vh;
+width: 100vw;
+background: radial-gradient(47.71% 64.41% at 50.94% 47.51%,
+rgba(198, 80, 0, 0.7482) 0%,
+rgba(142, 65, 12, 0.86) 24.48%,
+rgba(127, 64, 21, 0.86) 48.96%,
+rgba(79, 34, 3, 0.86) 74.48%,
+rgba(43, 17, 0, 0.86) 91.67%,
+rgba(32, 13, 0, 0.86) 100%);
+background-size:cover;
+margin: 0;
+}
+
+.elipse_photo{
+    position: absolute;
+    width: 435px;
+    height: 410px;
+    top: 102px;
+    left: 94px;
+    border-radius: 50%;
+    background: url(I:\\Web\\Photo.PNG);
+}
+
+.frame_photo{
+position: absolute;
+width: 500px;
+height: 501px;
+left: 63px;
+top: 55px;
+background: url(I:\\Web\\frame_photo.PNG);
+}
+
+.elipse_1{
+    
+position: absolute;
+width: 91px;
+height: 88px;
+left: 163px;
+top: 525px;
+border-radius: 50%;
+background: rgba(123, 102, 45, 0.67);
+}
+
+.elipse_2{
+position: absolute;
+width: 65px;
+height: 63px;
+left: 379px;
+top: 39px;
+border-radius: 50%;
+background: rgba(123, 102, 45, 0.67);
+}
+
+.line_1{
+position: absolute;
+width: 30px;
+height:  479px;
+left: 74px;
+top: 500px;
+background: url(I:\\Web\\line_1.PNG);
+}
